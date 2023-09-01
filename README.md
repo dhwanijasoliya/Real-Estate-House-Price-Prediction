@@ -1,4 +1,4 @@
-# real-estate-house-price-prediction
+# Real-Estate-House-Price-Prediction
 prediction of house pricing using linear regression. The project includes raw data cleaning, removal of outliers, and using linear regression to train the model
 
 
